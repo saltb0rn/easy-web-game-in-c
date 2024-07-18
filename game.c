@@ -43,7 +43,7 @@ void game_over() {
   CloseWindow();
 }
 
-#ifndef PLATFORM_WEB
+#ifndef HAND_CRAFTED
 int main()
 {
   game_init();
