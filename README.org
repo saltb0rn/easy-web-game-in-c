@@ -1,0 +1,3 @@
+*** 说明
+
+这个项目改自于 [[https://www.youtube.com/watch?v=H_cnrhVYsK0&t=1324s&ab_channel=TsodingDaily][Easy Web Games in C]] 视频中项目, 只是用来记录自己实践.
